@@ -1,0 +1,7 @@
+/* style.css */
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+a {
+  transition: all 0.2s ease;
+}
